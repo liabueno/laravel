@@ -12,7 +12,7 @@
             <a href="{{ route('site.principal') }}">Principal</a>
         </li>
         <li>
-            <a href="{{ route('site.sobre-nos') }}">Sobre Nós</a>
+            <a href="{{ route('site.sobrenos') }}">Sobre Nós</a>
         </li>
         <li>
             <a href="{{ route('site.contato') }}">Contato</a>
