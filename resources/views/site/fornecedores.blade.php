@@ -32,6 +32,10 @@
     </ul>
 
     <h1>Fornecedores</h1>
+
+    <br>
+
+    @dd($fornecedores)
     
 </body>
 </html>
