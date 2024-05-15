@@ -1,9 +1,9 @@
-@extends('site.layout.basico')
+@extends('site.layouts.basico')
 
 @section('titulo', 'Página de Fornecedores')
 
 @section('conteudo')
-    @include('site.layout._partials.menu')
+    @include('site.layouts._partials.menu')
     <h1>Fornecedores</h1>
 @endsection
 
